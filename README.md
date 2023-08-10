@@ -1,9 +1,11 @@
-# Ai-CSA1778-ASHIK
-ARTIFICIAL INTELLIGENCE python and prolog codes
+# ARTIFICIAL INTELLIGENCE python and prolog codes
 
 1 Write the python program to solve 8-Puzzle problem
+
 2 Write the python program to solve 8-Queen problem
+
 3 Write the python program for Water Jug Problem
+
 4 Write the python program for Cript-Arithmetic problem
 5 Write the python program for Missionaries Cannibal problem
 6 Write the python program for Vacuum Cleaner problem
