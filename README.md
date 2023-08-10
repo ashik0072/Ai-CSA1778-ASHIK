@@ -1,0 +1,2 @@
+# Ai-CSA1778-ASHIK
+ARTIFICIAL INTELLIGENCE python and prolog codes
