@@ -18,13 +18,3 @@ sibling(X, Y) :-
     parent(Z, X),
     parent(Z, Y),
     X \= Y.
-
-% Query Examples
-% To find the parent of a child
-% ?- parent(Parent, ann).
-
-% To find all ancestors of a person
-% ?- ancestor(X, emma).
-
-% To find siblings of a person
-% ?- sibling(jim, lisa).
