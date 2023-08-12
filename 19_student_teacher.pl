@@ -29,13 +29,3 @@ enrollment(s5, phy101).
 teaches(t1, math101).
 teaches(t2, cs101).
 teaches(t3, phy101).
-
-% Queries
-% To find all students enrolled in a specific subject
-% ?- enrollment(StudentID, cs101).
-
-% To find all subjects a specific student is enrolled in
-% ?- enrollment(s1, SubjectCode).
-
-% To find all teachers teaching a specific subject
-% ?- teaches(TeacherID, math101).
