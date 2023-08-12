@@ -12,6 +12,3 @@ hanoi(N, A, B, C, Moves) :-
 % Predicate to start the Towers of Hanoi
 towers_of_hanoi(N, Solution) :-
     hanoi(N, 'A', 'B', 'C', Solution).
-
-% Querying the solution
-% ?- towers_of_hanoi(3, Solution).
