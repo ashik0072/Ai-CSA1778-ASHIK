@@ -13,11 +13,3 @@ can_fly(Bird) :-
 can_fly(Bird) :-
     bird(Bird, no),
     format('~w cannot fly.~n', [Bird]).
-
-% Queries
-% To check if a particular bird can fly
-% ?- can_fly(sparrow).
-% ?- can_fly(penguin).
-
-% To list all birds that can fly
-% ?- can_fly(Bird).
