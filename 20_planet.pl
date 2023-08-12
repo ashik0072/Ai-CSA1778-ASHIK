@@ -7,16 +7,3 @@ planet(jupiter, gas_giant, 139822, 778.3).
 planet(saturn, gas_giant, 116464, 1427.0).
 planet(uranus, ice_giant, 50724, 2871.0).
 planet(neptune, ice_giant, 49244, 4497.1).
-
-% Queries
-% To find information about a specific planet
-% ?- planet(venus, Type, Diameter, Distance).
-
-% To find all rocky planets
-% ?- planet(Name, rocky, _, _).
-
-% To find all gas giant planets
-% ?- planet(Name, gas_giant, _, _).
-
-% To find all planets with a diameter greater than a certain value
-% ?- planet(Name, _, Diameter, _), Diameter > 50000.
