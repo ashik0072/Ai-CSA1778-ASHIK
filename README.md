@@ -59,5 +59,3 @@
 29 Write a Prolog Program for forward Chaining. Incorporate required queries.
 
 30 Write a Prolog Program for backward Chaining. Incorporate required queries.
-
-31 Create a Web Blog using Word press to demonstrate Anchor Tag, Title Tag, etc.
